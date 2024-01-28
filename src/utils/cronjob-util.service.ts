@@ -8,7 +8,7 @@ import { cronJobConfig } from '../configs/cron-job.config';
 
 export const setupCronJob = (ctx: Context<Update>) => {
   // Schedule a task to run every 15 days at 19:30
-  cron.schedule(cronJobConfig.frequency, async () => { // Este CRON que venga desde Enviroment.
+  cron.schedule(cronJobConfig.frequency, async () => {
     try {
       // Send a reminder message to the user using the provided context
       await ctx.reply('Remember to enter your email to check if it has been compromised.');
