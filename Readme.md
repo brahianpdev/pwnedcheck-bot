@@ -43,7 +43,9 @@ Node-cron is utilized to schedule a bi-weekly reminder for users to recheck thei
 
 ## Configuration:
 
-Adjust the cron schedule in the pwnedCheckBot.js file to customize the reminder frequency.
+![image](https://github.com/brahianpdev/pwnedcheck-bot/assets/66213550/387ee723-6e4e-4e59-8e4f-668583b34375)
+
+Adjust the cron schedule in the `cron-job.config.ts` file to customize the reminder frequency.
 
 Modify any other bot settings or messages in the script as needed.
 
