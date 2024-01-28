@@ -1,8 +1,10 @@
+![image](https://github.com/brahianpdev/pwnedcheck-bot/assets/66213550/254a7ff9-a7b8-41b9-9fc7-0ab100c76c98)
 
 # PwnedCheck Telegram Bot
 
 PwnedCheck is a Telegram bot designed to verify the security of a user's email address, ensuring it hasn't been compromised. Additionally, the bot provides a bi-weekly reminder at 19:30 to prompt users to recheck their email status.
 
+![image](https://github.com/brahianpdev/pwnedcheck-bot/assets/66213550/5f96792c-36e1-4f1f-a670-312ba827d2da)
 
 ## Dependencies
 
