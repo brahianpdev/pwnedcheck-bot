@@ -34,7 +34,7 @@ Ensure you have Node.js installed on your system.
 Run the bot using `npm run dev`.
 ## Details
 
-The bot leverages the Have I Been Pwned API to check the security status of user email addresses.
+The bot leverages the [Have I Been Pwned API](https://haveibeenpwned.com/API/v2) to check the security status of user email addresses.
 
 Axios is used to make HTTP requests to the Have I Been Pwned API.
 Telegraf handles interactions with the Telegram API, allowing users to check their email security status.
